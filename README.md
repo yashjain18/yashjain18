@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=gautamjain09&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yash_nareliya_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://[linkedin.com/in/gautam-jain-1382011aa](https://www.linkedin.com/in/yash-jain-502942182)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yash_nareliya_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jain-502942182)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
