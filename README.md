@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Myself<br>I'm currently learning Data Structure<br>How to reach me yashnareliya09@gmail.com<br>Ask me about procrastinating workflows and web development
+I’m currently working on Myself<br>I'm currently learning WEB DEVELOPMENT<br>How to reach me yashnareliya09@gmail.com<br>Ask me about procrastinating workflows and web development
 
 
 ## 🌐 Socials:
